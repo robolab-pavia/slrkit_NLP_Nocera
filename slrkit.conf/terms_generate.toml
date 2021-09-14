@@ -1,0 +1,24 @@
+# Input TSV data file
+# required: True
+datafile = "nlp-nocera_preproc.csv"
+# Output file name
+# required: True
+output = "nlp-nocera_terms.csv"
+# Also print on stdout the output file
+# required: False
+stdout = false
+# Maximum size of n-grams number
+# required: False
+n-grams = 4
+# Minimum frequency of the n-grams
+# required: False
+min-frequency = 5
+# Placeholder for barrier word. Also used as a prefix for the relevant words. Default: '@'
+# required: False
+placeholder = "@"
+# Column in datafile to process. If omitted 'abstract_lem' is used.
+# required: False
+column = "abstract_lem"
+# Delimiter used in datafile. Default '\t'
+# required: False
+delimiter = "\t"

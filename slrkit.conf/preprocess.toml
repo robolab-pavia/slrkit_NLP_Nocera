@@ -1,0 +1,39 @@
+# input CSV data file
+# required: True
+datafile = "nlp-nocera_abstracts.csv"
+# output file name. If omitted or '-' stdout is used
+# required: False
+output = "nlp-nocera_preproc.csv"
+# Placeholder for stopwords. Also used as a prefix for the relevant words. Default: '@'
+# required: False
+placeholder = "@"
+# stop words file name
+# required: False
+stop-words = []
+# relevant terms file name and the placeholder to use with those terms. The placeholder must not contains any space. The placeholder is optional. If it is omitted, each relevant term from this file, is replaced with the stopword placeholder, followed by the term itself with each space changed with the "_" character and then another stopword placeholder.
+# required: False
+relevant-term = [[]]
+# TSV files with the approved acronyms
+# required: False
+acronyms = ""
+# Column in datafile to process. If omitted 'abstract' is used.
+# required: False
+target-column = "abstract"
+# name of the column to save. If omitted 'abstract_lem' is used.
+# required: False
+output-column = "abstract_lem"
+# Delimiter used in datafile. Default '\t'
+# required: False
+input-delimiter = "\t"
+# Delimiter used in output file. Default '\t'
+# required: False
+output-delimiter = "\t"
+# Select maximum number of samples
+# required: False
+rows = ""
+# language of text. Must be a ISO 639-1 two-letter code. Default: 'en'
+# required: False
+language = "en"
+# Regex .csv for specific substitutions
+# required: False
+regex = ""

@@ -1,0 +1,18 @@
+# input CSV data file
+# required: True
+datafile = "nlp-nocera_acronyms.csv"
+# input only the terms classified with the specified label
+# required: False
+input = ""
+# do not write the results on exit
+# required: False
+dry-run = false
+# disable auto-saving; save changes at the end of the session
+# required: False
+no-auto-save = false
+# disable profiling logging
+# required: False
+no-profile = false
+# width of the windows in columns. Must be in range [40, 100]. Default 50 columns
+# required: False
+width = 50

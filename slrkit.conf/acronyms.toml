@@ -1,0 +1,9 @@
+# input CSV data file
+# required: True
+datafile = "nlp-nocera_abstracts.csv"
+# output file name
+# required: False
+output = "nlp-nocera_acronyms.csv"
+# Name of the column of datafile to search the acronyms. Default: abstract
+# required: False
+column = "abstract"

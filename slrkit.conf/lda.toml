@@ -1,0 +1,51 @@
+# path to the the preprocess file with the text to elaborate.
+# required: True
+preproc_file = "nlp-nocera_preproc.csv"
+# path to the file with the classified terms.
+# required: True
+terms_file = "nlp-nocera_terms.csv"
+# path to the directory where to save the results.
+# required: False
+outdir = "."
+# Column in preproc_file to process. If omitted 'abstract_lem' is used.
+# required: False
+text-column = "abstract_lem"
+# Column in preproc_file to use as document title. If omitted 'title' is used.
+# required: False
+title-column = "title"
+# Number of topics. If omitted 20 is used
+# required: False
+topics = 20
+# alpha parameter of LDA. If omitted auto is used
+# required: False
+alpha = "auto"
+# beta parameter of LDA. If omitted auto is used
+# required: False
+beta = "auto"
+# Keep tokens which are contained in at least this number of documents. If omitted 20 is used
+# required: False
+no_below = 20
+# Keep tokens which are contained in no more than this fraction of documents (fraction of total corpus size, not an absolute number). If omitted 0.5 is used
+# required: False
+no_above = 0.5
+# Seed to be used in training
+# required: False
+seed = ""
+# if set, the lda model is saved to directory <outdir>/lda_model. The model is saved with name "model.
+# required: False
+model = false
+# if set, use only the term labelled as keyword
+# required: False
+no-relevant = false
+# Path to a directory where a previously trained model is saved. Inside this directory the model named "model" is searched. the loaded model is used with the dataset file to generate the topics and the topic document association
+# required: False
+load-model = ""
+# if set, no timestamp is added to the topics file names
+# required: False
+no_timestamp = false
+# Placeholder for barrier word. Also used as a prefix for the relevant words. Default: @
+# required: False
+placeholder = "@"
+# Delimiter used in preproc_file. Default '\t'
+# required: False
+delimiter = "\t"

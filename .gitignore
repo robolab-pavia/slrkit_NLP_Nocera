@@ -1,0 +1,6 @@
+nlp-nocera_preproc.csv
+slrkit.conf/log/slr-kit.log
+nlp-nocera_abstracts.csv
+lda_info*.txt
+*lda_results/
+lda*.json

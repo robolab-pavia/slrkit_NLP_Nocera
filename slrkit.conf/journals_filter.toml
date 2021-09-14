@@ -1,0 +1,6 @@
+# path to the file with the abstracts of the papers
+# required: True
+abstract_file = "nlp-nocera_abstracts.csv"
+# path to the file with the classified journals
+# required: True
+journal_file = "nlp-nocera_journals.csv"

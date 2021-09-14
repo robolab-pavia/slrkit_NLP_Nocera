@@ -1,0 +1,6 @@
+# path to the abstract file with papers data
+# required: True
+abstract_file = "nlp-nocera_abstracts.csv"
+# path to csv output file
+# required: True
+outfile = "nlp-nocera_journals.csv"

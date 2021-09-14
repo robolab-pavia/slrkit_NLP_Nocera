@@ -1,0 +1,30 @@
+# path to the the preprocess file with the text to elaborate.
+# required: True
+preproc_file = "nlp-nocera_preproc.csv"
+# path to the file with the classified terms.
+# required: True
+terms_file = "nlp-nocera_terms.csv"
+# path to the file with the parameters for the ga.
+# required: True
+ga_params = "slrkit.conf/optimize_lda_ga_params.toml"
+# path to the directory where to save the results.
+# required: False
+outdir = "."
+# Column in preproc_file to process. If omitted 'abstract_lem' is used.
+# required: False
+text-column = "abstract_lem"
+# Column in preproc_file to use as document title. If omitted 'title' is used.
+# required: False
+title-column = "title"
+# Seed to be used in training.
+# required: False
+seed = ""
+# Placeholder for barrier word. Also used as a prefix for the relevant words. Default: @
+# required: False
+placeholder = "@"
+# Delimiter used in preproc_file. Default '\t'
+# required: False
+delimiter = "\t"
+# if set, no timestamp is added to the topics file names
+# required: False
+no_timestamp = false

@@ -1,0 +1,12 @@
+# input bibliography file
+# required: True
+input_file = ""
+# Type of the bibliography file. Supported types: ['RIS']. If absent 'RIS' is used.
+# required: False
+type = "RIS"
+# output CSV file name
+# required: False
+output = "nlp-nocera_abstracts.csv"
+# list of comma-separated columns to export. If absent 'title,abstract,year,journal,citations' is used. Use '?' for the list of available columns.
+# required: False
+columns = "title,abstract,year,journal,citations"
