@@ -1,12 +1,12 @@
 [Project]
-Author = ""
+Author = "Antonino Nocera"
 Config = "slrkit.conf"
 Description = ""
 Keywords = []
 Name = "nlp-nocera"
 
 [Source]
-Date = ""
-Origin = ""
-Query = ""
-URL = ""
+Date = "2021-03-02"
+Origin = "Scopus"
+Query = "\"natural language processing\" \"text mining\""
+URL = "https://www.scopus.com"

@@ -4,3 +4,4 @@ nlp-nocera_abstracts.csv
 lda_info*.txt
 *lda_results/
 lda*.json
+venv
