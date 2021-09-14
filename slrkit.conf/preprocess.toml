@@ -15,7 +15,7 @@ stop-words = []
 relevant-term = [[]]
 # TSV files with the approved acronyms
 # required: False
-acronyms = ""
+acronyms = "nlp-nocera_acronyms.csv"
 # Column in datafile to process. If omitted 'abstract' is used.
 # required: False
 target-column = "abstract"
