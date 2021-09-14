@@ -9,7 +9,7 @@ output = "nlp-nocera_preproc.csv"
 placeholder = "@"
 # stop words file name
 # required: False
-stop-words = []
+stop-words = ["my_stopwords.txt", "my_nltk_stopwords.txt"]
 # relevant terms file name and the placeholder to use with those terms. The placeholder must not contains any space. The placeholder is optional. If it is omitted, each relevant term from this file, is replaced with the stopword placeholder, followed by the term itself with each space changed with the "_" character and then another stopword placeholder.
 # required: False
 relevant-term = [[]]
