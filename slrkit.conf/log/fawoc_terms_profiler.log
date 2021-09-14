@@ -41919,3 +41919,388 @@
 2021-03-3117:23:04,764INFO CLASSIFIED: 23334
 2021-03-3117:23:04,764INFO DATAFILE 'PROJECT_DIR/nlp_terms.csv'
 2021-03-3117:23:04,765INFO *** PROGRAM TERMINATED ***
+2021-09-14 17:21:40,633 INFO *** PROGRAM STARTED ***
+2021-09-14 17:21:40,634 INFO DATAFILE: 'PROJECT_DIR/nlp-nocera_terms.csv'
+2021-09-14 17:21:40,697 INFO CLASSIFIED: 8173
+2021-09-14 17:21:40,697 INFO INPUT LABEL: NONE
+2021-09-14 17:21:44,913 INFO WORD 'is' AS 'noise'
+2021-09-14 17:21:51,069 INFO WORD 'is a' labeled as autonoise
+2021-09-14 17:21:51,069 INFO WORD 'is to' labeled as autonoise
+2021-09-14 17:21:51,069 INFO WORD 'is used' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'approach is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'is based' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'analysis is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'model is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'mining is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'is not' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'system is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'method is' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'is proposed' labeled as autonoise
+2021-09-14 17:21:51,070 INFO WORD 'data is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'text is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'information is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'algorithm is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'work is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'is able' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'is presented' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'is applied' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'study is' labeled as autonoise
+2021-09-14 17:21:51,071 INFO WORD 'extraction is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'task is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'and is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'research is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'document is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'language is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'is developed' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'is often' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'is performed' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'is still' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'technique is' labeled as autonoise
+2021-09-14 17:21:51,072 INFO WORD 'is essential' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is available' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'problem is' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is evaluated' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is difficult' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'classification is' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is useful' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is of' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is done' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is necessary' labeled as autonoise
+2021-09-14 17:21:51,073 INFO WORD 'is possible' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'is no' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'corpus is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'goal is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'framework is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'process is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'is constructed' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'literature is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'is introduced' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'knowledge is' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'is important' labeled as autonoise
+2021-09-14 17:21:51,074 INFO WORD 'summarization is' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is in' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'word is' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is compared' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is crucial' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is more' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is considered' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'aim is' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'representation is' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'stemming is' labeled as autonoise
+2021-09-14 17:21:51,075 INFO WORD 'is achieved' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'is on' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'is employed' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'processing is' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'clustering is' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'is required' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'is designed' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'content is' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'domain is' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'performance is' labeled as autonoise
+2021-09-14 17:21:51,076 INFO WORD 'structure is' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is becoming' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'detection is' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'objective is' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'stemmer is' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is obtained' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is made' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is known' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is carried' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'dataset is' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is now' labeled as autonoise
+2021-09-14 17:21:51,077 INFO WORD 'is built' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'graph is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'modeling is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'sentence is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'is extremely' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'is capable' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'article is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'web is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'is conducted' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'methodology is' labeled as autonoise
+2021-09-14 17:21:51,078 INFO WORD 'concept is' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is effective' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is currently' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is usually' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'network is' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is highly' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'classifier is' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'measure is' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'review is' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is defined' labeled as autonoise
+2021-09-14 17:21:51,079 INFO WORD 'is growing' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'twitter is' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'evaluation is' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'is found' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'proposal is' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'feature is' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'is calculated' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'is implemented' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'is critical' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'similarity is' labeled as autonoise
+2021-09-14 17:21:51,080 INFO WORD 'medium is' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is needed' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is extracted' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'term is' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is widely' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is measured' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is composed' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'idea is' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is utilized' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'is tested' labeled as autonoise
+2021-09-14 17:21:51,081 INFO WORD 'solution is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'is feasible' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'set is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'used is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'entity is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'science is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'is created' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'is first' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'technology is' labeled as autonoise
+2021-09-14 17:21:51,082 INFO WORD 'is quite' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is time-consuming' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'focus is' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is intended' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is discussed' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is text' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is described' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is generated' labeled as autonoise
+2021-09-14 17:21:51,083 INFO WORD 'is better' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'conference is' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'is mainly' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'is written' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'opinion is' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'retrieval is' labeled as autonoise
+2021-09-14 17:21:51,084 INFO WORD 'is challenging' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'is limited' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'is suitable' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'tool is' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'is analyzed' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'is computed' labeled as autonoise
+2021-09-14 17:21:51,085 INFO WORD 'is freely' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'application is' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'wikipedia is' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'topic is' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'sentiment is' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'is improved' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'is expected' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'message is' labeled as autonoise
+2021-09-14 17:21:51,086 INFO WORD 'is therefore' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'summary is' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'is different' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'is related' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'is concerned' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'practice is' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'is given' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'issue is' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'is represented' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'area is' labeled as autonoise
+2021-09-14 17:21:51,087 INFO WORD 'lexicon is' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'challenge is' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is stored' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'tweet is' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is beneficial' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'dictionary is' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is increasingly' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is demonstrated' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is established' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'is aimed' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'score is' labeled as autonoise
+2021-09-14 17:21:51,088 INFO WORD 'database is' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'is observed' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'categorization is' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'is trained' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'is comparable' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'is efficient' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'identification is' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'sa is' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'is well' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'function is' labeled as autonoise
+2021-09-14 17:21:51,089 INFO WORD 'ontology is' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is le' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'relation is' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is superior' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'mechanism is' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is derived' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'phase is' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'company is' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is threefold' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is fundamental' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is adopted' labeled as autonoise
+2021-09-14 17:21:51,090 INFO WORD 'is investigated' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'is collected' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'report is' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'is identified' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'selection is' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'comparison is' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'is validated' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'is particularly' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'segmentation is' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'scheme is' labeled as autonoise
+2021-09-14 17:21:51,091 INFO WORD 'english is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'is focused' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'accuracy is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'feedback is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'is classified' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'recognition is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'view is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'layer is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'criterion is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'is unstructured' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'search is' labeled as autonoise
+2021-09-14 17:21:51,092 INFO WORD 'is helpful' labeled as autonoise
+2021-09-14 17:21:51,093 INFO WORD 'bioc is' labeled as autonoise
+2021-09-14 17:21:52,485 INFO WORD 'is based on' labeled as autonoise
+2021-09-14 17:21:52,485 INFO WORD 'is used to' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'text mining is' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'sentiment analysis is' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'is able to' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'is proposed to' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'is a challenging' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'is applied to' labeled as autonoise
+2021-09-14 17:21:52,486 INFO WORD 'proposed approach is' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'goal is to' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'proposed method is' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'is necessary to' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'work is to' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'is difficult to' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'is possible to' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'approach is based' labeled as autonoise
+2021-09-14 17:21:52,487 INFO WORD 'mining is a' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'aim is to' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'is to develop' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'analysis is a' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'study is to' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'proposed system is' labeled as autonoise
+2021-09-14 17:21:52,488 INFO WORD 'is used in' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'is to extract' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'text is a' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'is to identify' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'opinion mining is' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'biomedical literature is' labeled as autonoise
+2021-09-14 17:21:52,489 INFO WORD 'is capable of' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'objective is to' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'task is to' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'is to find' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'natural language is' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'is developed to' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'is essential to' labeled as autonoise
+2021-09-14 17:21:52,490 INFO WORD 'is of great' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'is a crucial' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'text summarization is' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'extraction is a' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'topic modeling is' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'proposed model is' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'is employed to' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'language processing is' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'is considered a' labeled as autonoise
+2021-09-14 17:21:52,491 INFO WORD 'is composed of' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is a fundamental' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is useful in' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is time-consuming and' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is evaluated on' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is done by' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is a highly' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'is designed to' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'text corpus is' labeled as autonoise
+2021-09-14 17:21:52,492 INFO WORD 'classification is a' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'is a complex' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'social medium is' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'research is to' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'method is proposed' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'is achieved by' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'text classification is' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'language is a' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'is to propose' labeled as autonoise
+2021-09-14 17:21:52,493 INFO WORD 'is a difficult' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'is used a' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'is introduced to' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'of text is' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'is a process' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'topic model is' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'idea is to' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'is becoming a' labeled as autonoise
+2021-09-14 17:21:52,494 INFO WORD 'is not a' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'is critical to' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'summarization is a' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'is a promising' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'system is based' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'is a key' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'entity extraction is' labeled as autonoise
+2021-09-14 17:21:52,495 INFO WORD 'is available at' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'of data is' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'is a need' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'is stored in' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'textual data is' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'analysis is performed' labeled as autonoise
+2021-09-14 17:21:52,496 INFO WORD 'is essential in' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'information extraction is' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'conference is on' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'analysis is used' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'approach is applied' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'is widely used' labeled as autonoise
+2021-09-14 17:21:52,497 INFO WORD 'algorithm is used' labeled as autonoise
+2021-09-14 17:21:52,498 INFO WORD 'text document is' labeled as autonoise
+2021-09-14 17:21:52,498 INFO WORD 'is a text' labeled as autonoise
+2021-09-14 17:21:52,498 INFO WORD 'is important in' labeled as autonoise
+2021-09-14 17:21:52,498 INFO WORD 'document clustering is' labeled as autonoise
+2021-09-14 17:21:52,499 INFO WORD 'is available in' labeled as autonoise
+2021-09-14 17:21:52,499 INFO WORD 'focus is on' labeled as autonoise
+2021-09-14 17:21:52,499 INFO WORD 'is expected to' labeled as autonoise
+2021-09-14 17:21:52,499 INFO WORD 'is intended to' labeled as autonoise
+2021-09-14 17:21:52,499 INFO WORD 'mining is to' labeled as autonoise
+2021-09-14 17:21:52,500 INFO WORD 'is superior to' labeled as autonoise
+2021-09-14 17:21:52,500 INFO WORD 'in text is' labeled as autonoise
+2021-09-14 17:21:52,500 INFO WORD 'is required to' labeled as autonoise
+2021-09-14 17:21:52,500 INFO WORD 'is utilized to' labeled as autonoise
+2021-09-14 17:21:52,500 INFO WORD 'technique is applied' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'is applied on' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'is a critical' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'problem is to' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'is still in' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'approach is to' labeled as autonoise
+2021-09-14 17:21:52,501 INFO WORD 'of word is' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is performed by' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is a basic' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'method is a' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'arabic language is' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is presented to' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is not only' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is related to' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is to analyze' labeled as autonoise
+2021-09-14 17:21:52,502 INFO WORD 'is freely available' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'information retrieval is' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is focused on' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is still a' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'system is developed' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is performed on' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is presented in' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is a set' labeled as autonoise
+2021-09-14 17:21:52,503 INFO WORD 'is to study' labeled as autonoise
+2021-09-14 17:21:52,504 INFO WORD 'algorithm is proposed' labeled as autonoise
+2021-09-14 17:21:52,504 INFO WORD 'is useful to' labeled as autonoise
+2021-09-14 17:21:52,504 INFO WORD 'a document is' labeled as autonoise
+2021-09-14 17:21:52,504 INFO WORD 'stemming is a' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'approach is based on' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'is a challenging task' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'is based on a' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'text mining is a' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'sentiment analysis is a' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'in text mining is' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'natural language processing is' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'biomedical text mining is' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'is used to extract' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'proposed approach is based' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'is a process of' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'is a fundamental task' labeled as autonoise
+2021-09-14 17:21:53,527 INFO WORD 'text mining is to' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'system is based on' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is used to identify' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is a need to' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is to develop a' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is to propose a' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is able to extract' labeled as autonoise
+2021-09-14 17:21:53,528 INFO WORD 'is a set of' labeled as autonoise
+2021-09-14 17:22:36,439 INFO CLASSIFIED: 8551
+2021-09-14 17:22:36,439 INFO DATAFILE 'PROJECT_DIR/nlp-nocera_terms.csv'
+2021-09-14 17:22:36,439 INFO *** PROGRAM TERMINATED ***
