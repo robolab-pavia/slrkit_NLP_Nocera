@@ -19,7 +19,7 @@ id	term	label
 17	document	relevant
 18	system	noise
 19	word	noise
-20	sentiment	relevant
+20	sentiment	keyword
 21	based	
 22	feature	relevant
 23	proposed	
@@ -29,31 +29,31 @@ id	term	label
 27	task	noise
 28	processing	noise
 29	research	noise
-30	semantic	relevant
+30	semantic	keyword
 31	ha	noise
 32	algorithm	noise
 33	topic	relevant
-34	knowledge	relevant
+34	knowledge	keyword
 35	classification	relevant
 36	learning	relevant
 37	different	noise
 38	study	noise
-39	extraction	relevant
+39	extraction	keyword
 40	term	noise
 41	entity	noise
 42	application	noise
-43	corpus	relevant
+43	corpus	keyword
 44	use	noise
 45	user	noise
 46	social	noise
 47	performance	noise
 48	set	noise
-49	review	relevant
+49	review	keyword
 50	problem	noise
 51	not	noise
 52	more	noise
 53	domain	noise
-54	opinion	relevant
+54	opinion	keyword
 55	work	noise
 56	machine	noise
 57	process	noise
@@ -62,9 +62,9 @@ id	term	label
 60	concept	noise
 61	network	noise
 62	representation	noise
-63	sentence	relevant
+63	sentence	keyword
 64	medium	noise
-65	retrieval	relevant
+65	retrieval	keyword
 66	similarity	noise
 67	wa	noise
 68	at	noise
@@ -81,7 +81,7 @@ id	term	label
 79	field	noise
 80	relation	noise
 81	accuracy	relevant
-82	ontology	relevant
+82	ontology	keyword
 83	extract	noise
 84	clustering	noise
 85	evaluation	noise
@@ -345,7 +345,7 @@ id	term	label
 343	written	autonoise
 344	keywords	autonoise
 345	input	noise
-346	stemming	relevant
+346	stemming	keyword
 347	perform	autonoise
 348	applying	autonoise
 349	objective	noise
@@ -517,7 +517,7 @@ id	term	label
 515	practical	autonoise
 516	rating	autonoise
 517	video	autonoise
-518	label	relevant
+518	label	keyword
 519	distribution	autonoise
 520	described	
 521	hand	autonoise
@@ -3137,7 +3137,7 @@ id	term	label
 3135	lbd	autonoise
 3136	faq	
 3137	funding	
-3138	liwc	relevant
+3138	liwc	keyword
 3139	hyponymy	
 3140	minimally-supervised	
 3141	emm	
@@ -3534,7 +3534,7 @@ id	term	label
 3532	natural language	relevant
 3533	based on	
 3534	language processing	relevant
-3535	sentiment analysis	relevant
+3535	sentiment analysis	keyword
 3536	is a	autonoise
 3537	of a	autonoise
 3538	in a	noise
@@ -3542,8 +3542,8 @@ id	term	label
 3540	a a	autonoise
 3541	used to	
 3542	social medium	noise
-3543	machine learning	relevant
-3544	information retrieval	relevant
+3543	machine learning	keyword
+3544	information retrieval	keyword
 3545	number of	autonoise
 3546	set of	autonoise
 3547	in order	noise
@@ -3574,12 +3574,12 @@ id	term	label
 3572	and a	autonoise
 3573	used in	
 3574	of word	autonoise
-3575	neural network	relevant
+3575	neural network	keyword
 3576	type of	autonoise
 3577	of data	autonoise
 3578	to identify	autonoise
 3579	analysis and	autonoise
-3580	information extraction	relevant
+3580	information extraction	keyword
 3581	a text	autonoise
 3582	is used	autonoise
 3583	processing and	autonoise
@@ -3620,13 +3620,13 @@ id	term	label
 3618	social network	noise
 3619	text data	relevant
 3620	and information	autonoise
-3621	opinion mining	relevant
-3622	deep learning	relevant
+3621	opinion mining	keyword
+3622	deep learning	keyword
 3623	compared to	autonoise
-3624	question answering	relevant
+3624	question answering	keyword
 3625	publishing ag	autonoise
 3626	analysis is	autonoise
-3627	topic model	relevant
+3627	topic model	keyword
 3628	form of	autonoise
 3629	technique to	autonoise
 3630	process of	autonoise
@@ -3636,11 +3636,11 @@ id	term	label
 3634	quality of	autonoise
 3635	model is	autonoise
 3636	publishing switzerland	autonoise
-3637	support vector	relevant
+3637	support vector	noise
 3638	mining is	autonoise
 3639	is not	autonoise
 3640	effectiveness of	autonoise
-3641	short text	relevant
+3641	short text	keyword
 3642	vector machine	noise
 3643	system is	autonoise
 3644	to detect	autonoise
@@ -3658,7 +3658,7 @@ id	term	label
 3656	method and	autonoise
 3657	combination of	autonoise
 3658	in many	
-3659	topic modeling	relevant
+3659	topic modeling	keyword
 3660	information in	noise
 3661	by a	autonoise
 3662	word and	autonoise
@@ -3669,7 +3669,7 @@ id	term	label
 3667	and sentiment	autonoise
 3668	word in	noise
 3669	model to	autonoise
-3670	text summarization	relevant
+3670	text summarization	keyword
 3671	evaluation of	autonoise
 3672	used a	
 3673	proposes a	
@@ -3680,7 +3680,7 @@ id	term	label
 3678	technique and	autonoise
 3679	retrieval and	autonoise
 3680	extraction of	autonoise
-3681	semantic similarity	relevant
+3681	semantic similarity	keyword
 3682	area of	autonoise
 3683	document and	autonoise
 3684	extraction and	autonoise
@@ -3693,16 +3693,16 @@ id	term	label
 3691	overview of	autonoise
 3692	task in	noise
 3693	to provide	autonoise
-3694	feature selection	relevant
+3694	feature selection	keyword
 3695	corpus of	autonoise
 3696	classification of	autonoise
 3697	source of	autonoise
 3698	of research	autonoise
 3699	provides a	autonoise
-3700	learning algorithm	relevant
+3700	learning algorithm	keyword
 3701	case study	noise
 3702	method of	autonoise
-3703	f score	relevant
+3703	f score	keyword
 3704	to generate	autonoise
 3705	doe not	autonoise
 3706	variety of	autonoise
@@ -3718,8 +3718,8 @@ id	term	label
 3716	nature singapore	autonoise
 3717	singapore pte	
 3718	pte ltd	autonoise
-3719	semantic web	relevant
-3720	learning method	relevant
+3719	semantic web	keyword
+3720	learning method	keyword
 3721	information is	autonoise
 3722	proposed system	
 3723	and semantic	autonoise
@@ -3735,7 +3735,7 @@ id	term	label
 3733	to build	autonoise
 3734	level of	autonoise
 3735	in recent	noise
-3736	training data	relevant
+3736	training data	keyword
 3737	to develop	autonoise
 3738	volume of	autonoise
 3739	to achieve	autonoise
@@ -3750,7 +3750,7 @@ id	term	label
 3748	proposed to	
 3749	feature of	autonoise
 3750	algorithm and	autonoise
-3751	word embeddings	relevant
+3751	word embeddings	keyword
 3752	ability to	autonoise
 3753	context of	autonoise
 3754	kind of	autonoise
@@ -3760,10 +3760,10 @@ id	term	label
 3758	purpose of	autonoise
 3759	algorithm to	autonoise
 3760	to support	autonoise
-3761	similarity measure	relevant
+3761	similarity measure	keyword
 3762	a specific	autonoise
 3763	growth of	autonoise
-3764	knowledge base	relevant
+3764	knowledge base	keyword
 3765	system and	autonoise
 3766	relation extraction	noise
 3767	of online	autonoise
@@ -3771,11 +3771,11 @@ id	term	label
 3769	of different	autonoise
 3770	to make	autonoise
 3771	entity and	autonoise
-3772	unstructured text	relevant
+3772	unstructured text	keyword
 3773	study of	autonoise
 3774	to classify	autonoise
-3775	sentiment classification	relevant
-3776	keyword extraction	relevant
+3775	sentiment classification	keyword
+3776	keyword extraction	keyword
 3777	feature and	autonoise
 3778	method in	noise
 3779	identification of	autonoise
@@ -3794,7 +3794,7 @@ id	term	label
 3792	learning and	autonoise
 3793	attempt to	autonoise
 3794	a semantic	autonoise
-3795	learning technique	relevant
+3795	learning technique	keyword
 3796	language text	noise
 3797	not only	noise
 3798	lack of	autonoise
@@ -3806,20 +3806,20 @@ id	term	label
 3804	of feature	autonoise
 3805	naïve bayes	
 3806	list of	autonoise
-3807	learning approach	relevant
+3807	learning approach	keyword
 3808	understanding of	autonoise
 3809	to represent	autonoise
-3810	knowledge discovery	relevant
+3810	knowledge discovery	keyword
 3811	of scientific	autonoise
 3812	aim of	autonoise
-3813	document clustering	relevant
+3813	document clustering	keyword
 3814	research in	noise
-3815	unstructured data	relevant
+3815	unstructured data	keyword
 3816	classification and	autonoise
 3817	difficult to	autonoise
 3818	concept and	autonoise
 3819	a sentiment	autonoise
-3820	document collection	relevant
+3820	document collection	keyword
 3821	to perform	autonoise
 3822	to solve	autonoise
 3823	application in	noise
@@ -3832,11 +3832,11 @@ id	term	label
 3830	written in	noise
 3831	and opinion	autonoise
 3832	a challenging	autonoise
-3833	customer review	relevant
+3833	customer review	keyword
 3834	language model	noise
 3835	goal of	autonoise
-3836	text representation	relevant
-3837	learning model	relevant
+3836	text representation	keyword
+3837	learning model	keyword
 3838	artificial intelligence	
 3839	is able	autonoise
 3840	score of	autonoise
@@ -3846,12 +3846,12 @@ id	term	label
 3844	sentiment and	autonoise
 3845	system to	autonoise
 3846	structure of	autonoise
-3847	word embedding	relevant
+3847	word embedding	keyword
 3848	advantage of	autonoise
 3849	to overcome	autonoise
 3850	develop a	autonoise
 3851	impact of	autonoise
-3852	feature extraction	relevant
+3852	feature extraction	keyword
 3853	a variety	autonoise
 3854	text corpus	relevant
 3855	of unstructured	autonoise
@@ -3860,14 +3860,14 @@ id	term	label
 3858	a topic	autonoise
 3859	in various	noise
 3860	conditional random	
-3861	semantic analysis	relevant
+3861	semantic analysis	keyword
 3862	to create	autonoise
 3863	of term	autonoise
 3864	aim at	autonoise
 3865	respect to	autonoise
 3866	is applied	autonoise
 3867	up to	autonoise
-3868	text categorization	relevant
+3868	text categorization	keyword
 3869	decision making	relevant
 3870	on text	noise
 3871	a hybrid	autonoise
@@ -3899,9 +3899,9 @@ id	term	label
 3897	capable of	autonoise
 3898	a comprehensive	autonoise
 3899	and is	autonoise
-3900	extraction method	relevant
+3900	extraction method	keyword
 3901	approach in	autonoise
-3902	classification accuracy	relevant
+3902	classification accuracy	keyword
 3903	and classification	autonoise
 3904	relevant information	noise
 3905	a more	autonoise
@@ -3938,15 +3938,15 @@ id	term	label
 3936	developed a	autonoise
 3937	detection and	autonoise
 3938	to train	autonoise
-3939	stop word	relevant
+3939	stop word	keyword
 3940	a huge	autonoise
 3941	by applying	autonoise
-3942	vector space	relevant
+3942	vector space	keyword
 3943	build a	autonoise
-3944	arabic text	relevant
+3944	arabic text	keyword
 3945	to reduce	autonoise
 3946	impact on	noise
-3947	document classification	relevant
+3947	document classification	keyword
 3948	mining in	noise
 3949	play a	autonoise
 3950	possible to	autonoise
@@ -3982,12 +3982,12 @@ id	term	label
 3980	to learn	autonoise
 3981	processing of	autonoise
 3982	on social	noise
-3983	semantic information	relevant
+3983	semantic information	keyword
 3984	to ass	autonoise
 3985	generated by	autonoise
 3986	to help	autonoise
 3987	considered a	autonoise
-3988	text clustering	relevant
+3988	text clustering	keyword
 3989	to recognize	autonoise
 3990	mining system	noise
 3991	of opinion	autonoise
@@ -4012,7 +4012,7 @@ id	term	label
 4010	a user	autonoise
 4011	is often	autonoise
 4012	a major	autonoise
-4013	classification algorithm	relevant
+4013	classification algorithm	keyword
 4014	to study	autonoise
 4015	of sentence	autonoise
 4016	to measure	autonoise
@@ -4028,15 +4028,15 @@ id	term	label
 4026	of product	autonoise
 4027	and support	autonoise
 4028	technique is	autonoise
-4029	knowledge graph	relevant
-4030	word vec	relevant
+4029	knowledge graph	keyword
+4030	word vec	keyword
 4031	a structured	autonoise
 4032	feature in	autonoise
-4033	domain knowledge	relevant
+4033	domain knowledge	keyword
 4034	useful information	noise
 4035	a lot	autonoise
 4036	bag of	autonoise
-4037	document representation	relevant
+4037	document representation	keyword
 4038	mining algorithm	relevant
 4039	semantic and	autonoise
 4040	conducted on	autonoise
@@ -4048,7 +4048,7 @@ id	term	label
 4046	biomedical domain	autonoise
 4047	previous work	autonoise
 4048	limitation of	autonoise
-4049	test set	relevant
+4049	test set	keyword
 4050	a model	autonoise
 4051	term in	autonoise
 4052	semantic relatedness	noise
@@ -4056,12 +4056,12 @@ id	term	label
 4054	valuable information	noise
 4055	obtained by	autonoise
 4056	analysis to	autonoise
-4057	precision recall	relevant
-4058	document summarization	relevant
-4059	clustering method	relevant
+4057	precision recall	keyword
+4058	document summarization	keyword
+4059	clustering method	keyword
 4060	construct a	autonoise
 4061	information to	autonoise
-4062	clustering algorithm	relevant
+4062	clustering algorithm	keyword
 4063	challenge of	autonoise
 4064	automatically extract	noise
 4065	to mine	autonoise
@@ -4074,7 +4074,7 @@ id	term	label
 4072	a knowledge	autonoise
 4073	and on	autonoise
 4074	data to	autonoise
-4075	free text	relevant
+4075	free text	keyword
 4076	relies on	noise
 4077	different type	autonoise
 4078	comparison of	autonoise
@@ -4082,7 +4082,7 @@ id	term	label
 4080	pattern and	autonoise
 4081	text collection	relevant
 4082	approach based	
-4083	online review	relevant
+4083	online review	keyword
 4084	to better	autonoise
 4085	future research	noise
 4086	and feature	autonoise
@@ -4100,7 +4100,7 @@ id	term	label
 4098	way of	autonoise
 4099	efficiency of	autonoise
 4100	system in	noise
-4101	space model	relevant
+4101	space model	keyword
 4102	problem and	autonoise
 4103	objective of	autonoise
 4104	article and	autonoise
@@ -4123,7 +4123,7 @@ id	term	label
 4121	author and	autonoise
 4122	information on	noise
 4123	pair of	autonoise
-4124	classification task	relevant
+4124	classification task	keyword
 4125	selection of	autonoise
 4126	data analysis	relevant
 4127	generation of	autonoise
@@ -4139,7 +4139,7 @@ id	term	label
 4137	of speech	autonoise
 4138	english and	autonoise
 4139	framework to	autonoise
-4140	training set	relevant
+4140	training set	keyword
 4141	clustering and	autonoise
 4142	problem is	autonoise
 4143	and topic	autonoise
@@ -4157,9 +4157,9 @@ id	term	label
 4155	retrieval system	noise
 4156	to apply	autonoise
 4157	a better	autonoise
-4158	document frequency	relevant
+4158	document frequency	keyword
 4159	evaluated on	autonoise
-4160	classification method	relevant
+4160	classification method	keyword
 4161	document to	autonoise
 4162	is evaluated	autonoise
 4163	and evaluation	autonoise
@@ -4168,7 +4168,7 @@ id	term	label
 4166	medium and	autonoise
 4167	is difficult	autonoise
 4168	review of	autonoise
-4169	supervised learning	relevant
+4169	supervised learning	keyword
 4170	data science	relevant
 4171	scientific literature	noise
 4172	on various	autonoise
@@ -4225,7 +4225,7 @@ id	term	label
 4223	to demonstrate	autonoise
 4224	work in	autonoise
 4225	summarization and	autonoise
-4226	linguistic feature	relevant
+4226	linguistic feature	keyword
 4227	to tackle	autonoise
 4228	is of	autonoise
 4229	a deep	autonoise
@@ -4261,12 +4261,12 @@ id	term	label
 4259	proposed a	
 4260	rate of	autonoise
 4261	describes a	autonoise
-4262	knowledge extraction	relevant
+4262	knowledge extraction	keyword
 4263	public opinion	noise
 4264	web and	autonoise
 4265	and provide	autonoise
 4266	of nlp	autonoise
-4267	term frequency	relevant
+4267	term frequency	keyword
 4268	literature and	autonoise
 4269	and some	autonoise
 4270	science and	autonoise
@@ -4311,7 +4311,7 @@ id	term	label
 4309	contained in	autonoise
 4310	size of	autonoise
 4311	goal is	autonoise
-4312	extraction system	relevant
+4312	extraction system	keyword
 4313	group of	autonoise
 4314	source code	noise
 4315	first step	autonoise
@@ -4326,15 +4326,15 @@ id	term	label
 4324	potential of	autonoise
 4325	consisting of	autonoise
 4326	useful in	autonoise
-4327	feature vector	relevant
+4327	feature vector	keyword
 4328	framework is	autonoise
 4329	and computational	autonoise
 4330	answering system	noise
 4331	deep neural	autonoise
-4332	knowledge representation	relevant
+4332	knowledge representation	keyword
 4333	a to	autonoise
 4334	in spanish	autonoise
-4335	topic detection	relevant
+4335	topic detection	keyword
 4336	provided by	
 4337	process is	autonoise
 4338	resource and	autonoise
@@ -4346,7 +4346,7 @@ id	term	label
 4344	is constructed	autonoise
 4345	discovery of	autonoise
 4346	a methodology	autonoise
-4347	classification problem	relevant
+4347	classification problem	keyword
 4348	organization and	autonoise
 4349	active research	noise
 4350	a broad	autonoise
@@ -4355,9 +4355,9 @@ id	term	label
 4353	a part	autonoise
 4354	to integrate	autonoise
 4355	sentence in	autonoise
-4356	cosine similarity	relevant
+4356	cosine similarity	keyword
 4357	improvement in	autonoise
-4358	sentiment polarity	relevant
+4358	sentiment polarity	keyword
 4359	trend in	autonoise
 4360	of human	autonoise
 4361	role of	autonoise
@@ -4370,9 +4370,9 @@ id	term	label
 4368	to form	autonoise
 4369	comment and	autonoise
 4370	of question	autonoise
-4371	sentiment score	relevant
+4371	sentiment score	keyword
 4372	analysis on	autonoise
-4373	probabilistic topic	relevant
+4373	probabilistic topic	keyword
 4374	access to	autonoise
 4375	and ontology	autonoise
 4376	wide range	
@@ -4395,7 +4395,7 @@ id	term	label
 4393	gold standard	autonoise
 4394	data analytics	relevant
 4395	retrieval of	autonoise
-4396	vector representation	relevant
+4396	vector representation	keyword
 4397	a general	autonoise
 4398	three different	autonoise
 4399	springer-verlag london	
@@ -4405,12 +4405,12 @@ id	term	label
 4403	to express	autonoise
 4404	wa evaluated	autonoise
 4405	pattern of	autonoise
-4406	manually annotated	relevant
+4406	manually annotated	keyword
 4407	textual information	relevant
 4408	method on	autonoise
 4409	and used	
 4410	data a	autonoise
-4411	word sense	relevant
+4411	word sense	keyword
 4412	researcher to	autonoise
 4413	to estimate	autonoise
 4414	datasets and	autonoise
@@ -4420,12 +4420,12 @@ id	term	label
 4418	performed on	autonoise
 4419	literature is	autonoise
 4420	ability of	autonoise
-4421	feature set	relevant
+4421	feature set	keyword
 4422	text by	noise
 4423	a data	autonoise
 4424	methodology to	autonoise
 4425	decision support	noise
-4426	word segmentation	relevant
+4426	word segmentation	keyword
 4427	asis t	
 4428	scientific article	noise
 4429	model on	autonoise
@@ -4434,7 +4434,7 @@ id	term	label
 4432	proposed algorithm	
 4433	of advanced	autonoise
 4434	engineering and	autonoise
-4435	semantic knowledge	relevant
+4435	semantic knowledge	keyword
 4436	case of	autonoise
 4437	feature based	
 4438	of great	autonoise
@@ -4461,7 +4461,7 @@ id	term	label
 4459	effect on	autonoise
 4460	in comparison	autonoise
 4461	to analyse	autonoise
-4462	test data	relevant
+4462	test data	keyword
 4463	example of	autonoise
 4464	a positive	autonoise
 4465	and f	autonoise
@@ -4474,7 +4474,7 @@ id	term	label
 4472	freely available	autonoise
 4473	vast amount	autonoise
 4474	a way	autonoise
-4475	document vector	relevant
+4475	document vector	keyword
 4476	of event	autonoise
 4477	data ha	noise
 4478	context and	autonoise
@@ -4482,7 +4482,7 @@ id	term	label
 4480	ontology learning	noise
 4481	product feature	noise
 4482	is introduced	autonoise
-4483	term extraction	relevant
+4483	term extraction	keyword
 4484	of chinese	autonoise
 4485	scientific publication	autonoise
 4486	only a	autonoise
@@ -4495,7 +4495,7 @@ id	term	label
 4493	of deep	autonoise
 4494	introduce a	autonoise
 4495	different approach	autonoise
-4496	classification technique	relevant
+4496	classification technique	keyword
 4497	to compute	autonoise
 4498	commonly used	
 4499	semantics of	autonoise
@@ -4504,7 +4504,7 @@ id	term	label
 4502	selection and	autonoise
 4503	a tool	autonoise
 4504	extracted by	autonoise
-4505	feature space	relevant
+4505	feature space	keyword
 4506	important research	noise
 4507	medical record	autonoise
 4508	performance and	autonoise
@@ -4514,9 +4514,9 @@ id	term	label
 4512	knowledge is	autonoise
 4513	syntactic and	autonoise
 4514	a promising	autonoise
-4515	word vector	relevant
+4515	word vector	keyword
 4516	of experiment	autonoise
-4517	keyphrase extraction	relevant
+4517	keyphrase extraction	keyword
 4518	state-of-the-art approach	
 4519	to handle	autonoise
 4520	is important	autonoise
@@ -4532,7 +4532,7 @@ id	term	label
 4530	proposed methodology	
 4531	approach by	autonoise
 4532	issue and	autonoise
-4533	classification model	relevant
+4533	classification model	keyword
 4534	data collection	relevant
 4535	extracting information	noise
 4536	user review	noise
@@ -4540,7 +4540,7 @@ id	term	label
 4538	response to	autonoise
 4539	extract information	relevant
 4540	is in	autonoise
-4541	structured information	relevant
+4541	structured information	keyword
 4542	depending on	autonoise
 4543	a compared	autonoise
 4544	advance in	autonoise
@@ -4550,7 +4550,7 @@ id	term	label
 4548	and language	autonoise
 4549	of current	autonoise
 4550	mentioned in	autonoise
-4551	lexical resource	relevant
+4551	lexical resource	keyword
 4552	based method	
 4553	given a	autonoise
 4554	weight of	autonoise
@@ -4570,8 +4570,8 @@ id	term	label
 4568	achieved by	autonoise
 4569	and compared	autonoise
 4570	notion of	autonoise
-4571	annotated corpus	relevant
-4572	markov model	relevant
+4571	annotated corpus	keyword
+4572	markov model	keyword
 4573	application to	autonoise
 4574	to define	autonoise
 4575	technology and	autonoise
@@ -4593,7 +4593,7 @@ id	term	label
 4591	source and	autonoise
 4592	a language	autonoise
 4593	and respectively	autonoise
-4594	labeled data	relevant
+4594	labeled data	keyword
 4595	user-generated content	
 4596	of big	autonoise
 4597	is considered	autonoise
@@ -4607,7 +4607,7 @@ id	term	label
 4605	a social	autonoise
 4606	representation is	autonoise
 4607	to effectively	autonoise
-4608	automatic summarization	relevant
+4608	automatic summarization	keyword
 4609	and document	autonoise
 4610	composed of	autonoise
 4611	model ha	noise
@@ -4619,7 +4619,7 @@ id	term	label
 4617	and retrieval	autonoise
 4618	represented by	autonoise
 4619	in online	autonoise
-4620	negative sentiment	relevant
+4620	negative sentiment	keyword
 4621	in twitter	autonoise
 4622	use permitted	noise
 4623	a fuzzy	autonoise
@@ -4639,9 +4639,9 @@ id	term	label
 4637	twitter data	noise
 4638	language identification	relevant
 4639	of automatically	autonoise
-4640	clustering technique	relevant
+4640	clustering technique	keyword
 4641	useful to	autonoise
-4642	experimental evaluation	relevant
+4642	experimental evaluation	keyword
 4643	and statistical	autonoise
 4644	essential to	autonoise
 4645	analysis a	autonoise
@@ -4664,7 +4664,7 @@ id	term	label
 4662	springer-verlag gmbh	
 4663	automatic extraction	noise
 4664	data on	autonoise
-4665	web mining	relevant
+4665	web mining	keyword
 4666	and review	autonoise
 4667	help in	autonoise
 4668	by considering	autonoise
@@ -4672,10 +4672,10 @@ id	term	label
 4670	is on	autonoise
 4671	and technique	autonoise
 4672	tagging and	autonoise
-4673	extraction technique	relevant
+4673	extraction technique	keyword
 4674	success of	autonoise
 4675	of several	
-4676	text similarity	relevant
+4676	text similarity	keyword
 4677	and different	autonoise
 4678	a systematic	autonoise
 4679	knowledge and	autonoise
@@ -4706,7 +4706,7 @@ id	term	label
 4704	semantic feature	noise
 4705	clinical text	noise
 4706	to exploit	autonoise
-4707	web document	relevant
+4707	web document	keyword
 4708	aspect and	autonoise
 4709	to share	autonoise
 4710	and provides	autonoise
@@ -4719,13 +4719,13 @@ id	term	label
 4717	of three	autonoise
 4718	to calculate	autonoise
 4719	benefit of	autonoise
-4720	knowledge source	relevant
+4720	knowledge source	keyword
 4721	bug report	noise
 4722	of statistical	autonoise
 4723	selection method	noise
 4724	design and	autonoise
 4725	in arabic	autonoise
-4726	term weighting	relevant
+4726	term weighting	keyword
 4727	gene and	autonoise
 4728	to search	autonoise
 4729	implemented in	autonoise
@@ -4752,7 +4752,7 @@ id	term	label
 4750	clustering is	autonoise
 4751	a brief	autonoise
 4752	wiley periodical	noise
-4753	network model	relevant
+4753	network model	keyword
 4754	resulting in	autonoise
 4755	available on	autonoise
 4756	serve a	autonoise
@@ -4771,7 +4771,7 @@ id	term	label
 4769	make a	autonoise
 4770	by user	autonoise
 4771	semantic indexing	noise
-4772	similarity score	relevant
+4772	similarity score	keyword
 4773	datasets in	autonoise
 4774	potential to	autonoise
 4775	is designed	autonoise
@@ -4826,7 +4826,7 @@ id	term	label
 4824	semantic annotation	noise
 4825	and context	autonoise
 4826	domain is	autonoise
-4827	small set	relevant
+4827	small set	keyword
 4828	to enable	autonoise
 4829	data by	noise
 4830	performance is	autonoise
@@ -4837,7 +4837,7 @@ id	term	label
 4835	online news	autonoise
 4836	a task	autonoise
 4837	corpus to	autonoise
-4838	classification performance	relevant
+4838	classification performance	keyword
 4839	a useful	autonoise
 4840	medium site	autonoise
 4841	needed to	autonoise
@@ -4866,7 +4866,7 @@ id	term	label
 4864	total of	autonoise
 4865	and algorithm	autonoise
 4866	better understanding	autonoise
-4867	representation model	relevant
+4867	representation model	keyword
 4868	public health	autonoise
 4869	indexing and	autonoise
 4870	to validate	autonoise
@@ -4929,7 +4929,7 @@ id	term	label
 4927	negative and	autonoise
 4928	research ha	noise
 4929	application area	autonoise
-4930	unstructured information	relevant
+4930	unstructured information	keyword
 4931	twitter message	autonoise
 4932	a popular	autonoise
 4933	th century	
@@ -4937,7 +4937,7 @@ id	term	label
 4935	various text	noise
 4936	in extracting	autonoise
 4937	identify and	autonoise
-4938	structured data	relevant
+4938	structured data	keyword
 4939	of clinical	autonoise
 4940	processing information	noise
 4941	and hence	autonoise
@@ -4989,7 +4989,7 @@ id	term	label
 4987	renewable energy	
 4988	life science	autonoise
 4989	protein name	autonoise
-4990	feature engineering	relevant
+4990	feature engineering	keyword
 4991	of work	autonoise
 4992	of digital	autonoise
 4993	a computational	autonoise
@@ -4999,7 +4999,7 @@ id	term	label
 4997	in real	autonoise
 4998	real time	autonoise
 4999	dataset is	autonoise
-5000	word removal	relevant
+5000	word removal	keyword
 5001	a lexical	autonoise
 5002	fail to	autonoise
 5003	system ha	noise
@@ -5008,7 +5008,7 @@ id	term	label
 5006	size and	autonoise
 5007	and content	autonoise
 5008	given text	noise
-5009	baseline model	relevant
+5009	baseline model	keyword
 5010	and research	autonoise
 5011	data processing	relevant
 5012	et al	
@@ -5023,7 +5023,7 @@ id	term	label
 5021	a rich	autonoise
 5022	background knowledge	relevant
 5023	multi-task learning	
-5024	representation method	relevant
+5024	representation method	keyword
 5025	recommender system	noise
 5026	unstructured textual	noise
 5027	intelligence and	autonoise
@@ -5071,7 +5071,7 @@ id	term	label
 5069	comparison to	autonoise
 5070	of time	autonoise
 5071	to examine	autonoise
-5072	topic modelling	relevant
+5072	topic modelling	keyword
 5073	occurrence of	autonoise
 5074	a customer	autonoise
 5075	is built	autonoise
@@ -5083,7 +5083,7 @@ id	term	label
 5081	term memory	noise
 5082	a classifier	autonoise
 5083	distribution of	autonoise
-5084	sentence level	relevant
+5084	sentence level	keyword
 5085	cluster of	autonoise
 5086	negation and	autonoise
 5087	bayes and	autonoise
@@ -5095,11 +5095,11 @@ id	term	label
 5093	to user	autonoise
 5094	user of	autonoise
 5095	traditional method	noise
-5096	morphological analysis	relevant
+5096	morphological analysis	keyword
 5097	classification approach	autonoise
 5098	assessment of	autonoise
 5099	and classify	autonoise
-5100	f measure	relevant
+5100	f measure	keyword
 5101	patent document	noise
 5102	to propose	
 5103	idea of	autonoise
@@ -5111,7 +5111,7 @@ id	term	label
 5109	type and	autonoise
 5110	sentiment orientation	noise
 5111	graph is	autonoise
-5112	word stemmer	relevant
+5112	word stemmer	keyword
 5113	automatically extracted	autonoise
 5114	modeling technique	autonoise
 5115	time series	autonoise
@@ -5145,10 +5145,10 @@ id	term	label
 5143	high precision	autonoise
 5144	a study	autonoise
 5145	support system	noise
-5146	systematic review	relevant
+5146	systematic review	keyword
 5147	rough set	noise
 5148	rule and	autonoise
-5149	key term	relevant
+5149	key term	keyword
 5150	sentence is	autonoise
 5151	document by	autonoise
 5152	research community	noise
@@ -5165,7 +5165,7 @@ id	term	label
 5163	algorithm of	autonoise
 5164	in developing	autonoise
 5165	huge volume	
-5166	network analysis	relevant
+5166	network analysis	keyword
 5167	to document	autonoise
 5168	word of	autonoise
 5169	knowledge to	autonoise
@@ -5203,7 +5203,7 @@ id	term	label
 5201	high accuracy	relevant
 5202	matrix factorization	
 5203	utilized in	autonoise
-5204	word representation	relevant
+5204	word representation	keyword
 5205	broad range	
 5206	analysis method	relevant
 5207	space and	autonoise
@@ -5244,7 +5244,7 @@ id	term	label
 5242	to work	autonoise
 5243	and unstructured	autonoise
 5244	web technology	noise
-5245	predictive model	relevant
+5245	predictive model	keyword
 5246	clustering of	autonoise
 5247	presented and	
 5248	allows u	
@@ -5319,7 +5319,7 @@ id	term	label
 5317	of classifier	autonoise
 5318	form a	autonoise
 5319	user interface	noise
-5320	sentiment towards	relevant
+5320	sentiment towards	noise
 5321	era of	autonoise
 5322	arabic language	noise
 5323	content on	autonoise
@@ -5412,9 +5412,9 @@ id	term	label
 5410	lexicon and	autonoise
 5411	different classification	autonoise
 5412	mining research	noise
-5413	hybrid method	relevant
+5413	hybrid method	keyword
 5414	overall performance	autonoise
-5415	semantically related	relevant
+5415	semantically related	keyword
 5416	direction of	autonoise
 5417	automated method	noise
 5418	preprocessing step	autonoise
@@ -5435,9 +5435,9 @@ id	term	label
 5433	and propose	
 5434	selection process	relevant
 5435	performance improvement	autonoise
-5436	unsupervised approach	relevant
+5436	unsupervised approach	keyword
 5437	textual entailment	noise
-5438	unsupervised method	relevant
+5438	unsupervised method	keyword
 5439	question classification	autonoise
 5440	pre-processing step	
 5441	main topic	relevant
@@ -5450,7 +5450,7 @@ id	term	label
 5448	corpus in	autonoise
 5449	exploration of	autonoise
 5450	classifier and	autonoise
-5451	sentimental analysis	relevant
+5451	sentimental analysis	keyword
 5452	and second	autonoise
 5453	content analysis	relevant
 5454	a prototype	autonoise
@@ -5472,11 +5472,11 @@ id	term	label
 5470	of algorithm	autonoise
 5471	on biomedical	autonoise
 5472	network based	
-5473	word frequency	relevant
+5473	word frequency	keyword
 5474	given document	noise
 5475	focus of	
 5476	and trend	autonoise
-5477	statistical analysis	relevant
+5477	statistical analysis	keyword
 5478	government and	autonoise
 5479	subjective information	autonoise
 5480	controlled vocabulary	
@@ -5491,7 +5491,7 @@ id	term	label
 5489	extraction approach	noise
 5490	proved to	autonoise
 5491	textual description	noise
-5492	automatic classification	relevant
+5492	automatic classification	keyword
 5493	advent of	autonoise
 5494	intelligent system	autonoise
 5495	a whole	autonoise
@@ -5499,7 +5499,7 @@ id	term	label
 5497	on document	autonoise
 5498	define a	autonoise
 5499	to infer	autonoise
-5500	text preprocessing	relevant
+5500	text preprocessing	keyword
 5501	and disease	autonoise
 5502	and reduce	autonoise
 5503	future direction	autonoise
@@ -5513,7 +5513,7 @@ id	term	label
 5511	attention in	autonoise
 5512	employ a	autonoise
 5513	in parallel	autonoise
-5514	annotated data	relevant
+5514	annotated data	keyword
 5515	in human	autonoise
 5516	is growing	autonoise
 5517	a semi-supervised	
@@ -5556,7 +5556,7 @@ id	term	label
 5554	practical application	autonoise
 5555	a training	autonoise
 5556	recall of	autonoise
-5557	raw data	relevant
+5557	raw data	keyword
 5558	mining problem	noise
 5559	different source	autonoise
 5560	wikipedia article	noise
@@ -5589,15 +5589,15 @@ id	term	label
 5587	effectiveness and	autonoise
 5588	faculty member	noise
 5589	chinese text	noise
-5590	stemming algorithm	relevant
+5590	stemming algorithm	keyword
 5591	technique on	autonoise
 5592	language independent	noise
 5593	native language	noise
 5594	semantic search	noise
 5595	of biological	autonoise
-5596	pattern matching	relevant
+5596	pattern matching	keyword
 5597	bursty feature	noise
-5598	unlabeled data	relevant
+5598	unlabeled data	keyword
 5599	in fact	autonoise
 5600	string kernel	
 5601	disease hierarchy	autonoise
@@ -5610,7 +5610,7 @@ id	term	label
 5608	effort in	autonoise
 5609	task due	autonoise
 5610	stream of	autonoise
-5611	literature review	relevant
+5611	literature review	keyword
 5612	frequently used	
 5613	phase of	autonoise
 5614	of multiple	autonoise
@@ -5618,7 +5618,7 @@ id	term	label
 5616	on average	autonoise
 5617	and analyse	autonoise
 5618	algorithm on	autonoise
-5619	lexical database	relevant
+5619	lexical database	keyword
 5620	weight to	autonoise
 5621	university of	autonoise
 5622	scientific document	noise
@@ -5660,7 +5660,7 @@ id	term	label
 5658	algorithm used	
 5659	experiment conducted	autonoise
 5660	existing technique	autonoise
-5661	emotion recognition	relevant
+5661	emotion recognition	keyword
 5662	comparable to	autonoise
 5663	is calculated	autonoise
 5664	and lexicon	autonoise
@@ -5697,7 +5697,7 @@ id	term	label
 5695	wa tested	autonoise
 5696	structured representation	noise
 5697	existing text	autonoise
-5698	unsupervised learning	relevant
+5698	unsupervised learning	keyword
 5699	machine learning-based	
 5700	a survey	autonoise
 5701	external knowledge	noise
@@ -5727,14 +5727,14 @@ id	term	label
 5725	algorithm wa	noise
 5726	probability of	autonoise
 5727	to cope	autonoise
-5728	emotion lexicon	relevant
+5728	emotion lexicon	keyword
 5729	analyzed and	autonoise
 5730	processing to	autonoise
 5731	a dictionary	autonoise
 5732	similarity is	autonoise
 5733	creative common	autonoise
 5734	cc by	autonoise
-5735	prediction accuracy	relevant
+5735	prediction accuracy	keyword
 5736	wa applied	autonoise
 5737	cancer text	autonoise
 5738	of system	autonoise
@@ -5754,10 +5754,10 @@ id	term	label
 5752	to consider	autonoise
 5753	written text	autonoise
 5754	data sparsity	autonoise
-5755	recall rate	relevant
+5755	recall rate	keyword
 5756	method achieves	noise
 5757	class and	autonoise
-5758	document retrieval	relevant
+5758	document retrieval	keyword
 5759	po tagging	
 5760	article to	autonoise
 5761	technique by	autonoise
@@ -5779,7 +5779,7 @@ id	term	label
 5777	a technique	autonoise
 5778	language understanding	noise
 5779	domain-specific knowledge	
-5780	extraction process	relevant
+5780	extraction process	keyword
 5781	finding of	autonoise
 5782	automatically generated	autonoise
 5783	done on	autonoise
@@ -5795,7 +5795,7 @@ id	term	label
 5793	to remove	autonoise
 5794	is extracted	autonoise
 5795	introduced to	autonoise
-5796	centrality measure	relevant
+5796	centrality measure	keyword
 5797	a decision	autonoise
 5798	and even	autonoise
 5799	different sentiment	noise
@@ -5834,7 +5834,7 @@ id	term	label
 5832	at least	autonoise
 5833	author profiling	autonoise
 5834	to ensure	autonoise
-5835	ontology construction	relevant
+5835	ontology construction	keyword
 5836	introduced a	autonoise
 5837	lexicon of	autonoise
 5838	and help	autonoise
@@ -5859,10 +5859,10 @@ id	term	label
 5857	product design	autonoise
 5858	jatit lls	
 5859	and limitation	autonoise
-5860	fuzzy set	relevant
+5860	fuzzy set	keyword
 5861	approach a	autonoise
 5862	feature opinion	autonoise
-5863	probabilistic model	relevant
+5863	probabilistic model	keyword
 5864	of noun	autonoise
 5865	document level	relevant
 5866	lexicon based	
@@ -5875,7 +5875,7 @@ id	term	label
 5873	on sentiment	autonoise
 5874	system performance	noise
 5875	to offer	autonoise
-5876	translation model	relevant
+5876	translation model	keyword
 5877	a bag	autonoise
 5878	annotation and	autonoise
 5879	exist in	autonoise
@@ -5929,7 +5929,7 @@ id	term	label
 5927	query expansion	noise
 5928	challenging issue	autonoise
 5929	previous research	noise
-5930	evaluation metric	relevant
+5930	evaluation metric	keyword
 5931	to date	autonoise
 5932	human and	autonoise
 5933	important feature	noise
@@ -5966,8 +5966,8 @@ id	term	label
 5964	creating a	autonoise
 5965	idea is	autonoise
 5966	singular value	noise
-5967	value decomposition	relevant
-5968	extraction algorithm	relevant
+5967	value decomposition	keyword
+5968	extraction algorithm	keyword
 5969	difficulty in	autonoise
 5970	textual feature	relevant
 5971	and process	autonoise
@@ -5976,7 +5976,7 @@ id	term	label
 5974	different aspect	autonoise
 5975	intended to	autonoise
 5976	become more	autonoise
-5977	similar word	relevant
+5977	similar word	keyword
 5978	application including	
 5979	finding and	autonoise
 5980	likely to	
@@ -6014,10 +6014,10 @@ id	term	label
 6012	query and	autonoise
 6013	of design	autonoise
 6014	and precision	autonoise
-6015	bayes classifier	relevant
+6015	bayes classifier	keyword
 6016	higher accuracy	noise
 6017	year and	autonoise
-6018	similarity metric	relevant
+6018	similarity metric	keyword
 6019	average of	autonoise
 6020	methodology and	autonoise
 6021	to natural	autonoise
@@ -6102,7 +6102,7 @@ id	term	label
 6100	of life	autonoise
 6101	referred to	autonoise
 6102	and gene	autonoise
-6103	local context	relevant
+6103	local context	keyword
 6104	based feature	
 6105	consideration of	autonoise
 6106	in question	autonoise
@@ -6131,17 +6131,17 @@ id	term	label
 6129	set to	autonoise
 6130	important source	autonoise
 6131	structural information	autonoise
-6132	detection model	relevant
+6132	detection model	keyword
 6133	a generic	autonoise
 6134	well known	autonoise
-6135	prediction model	relevant
+6135	prediction model	keyword
 6136	available to	autonoise
 6137	preliminary experiment	autonoise
 6138	in performance	autonoise
-6139	speech recognition	relevant
+6139	speech recognition	keyword
 6140	quality and	autonoise
 6141	reputation system	autonoise
-6142	text segmentation	relevant
+6142	text segmentation	keyword
 6143	phrase a	autonoise
 6144	used is	autonoise
 6145	analyzed to	autonoise
@@ -6158,7 +6158,7 @@ id	term	label
 6156	data collected	noise
 6157	of providing	
 6158	and effective	autonoise
-6159	word length	relevant
+6159	word length	keyword
 6160	and recommendation	autonoise
 6161	entity is	autonoise
 6162	processing application	noise
@@ -6189,7 +6189,7 @@ id	term	label
 6187	and classifying	autonoise
 6188	product sale	autonoise
 6189	relationship extraction	noise
-6190	linguistic analysis	relevant
+6190	linguistic analysis	keyword
 6191	existing research	autonoise
 6192	similarity to	autonoise
 6193	focus in	
@@ -6198,7 +6198,7 @@ id	term	label
 6196	in patent	autonoise
 6197	science is	autonoise
 6198	analytics and	autonoise
-6199	emotion detection	relevant
+6199	emotion detection	keyword
 6200	information by	autonoise
 6201	of intelligent	autonoise
 6202	inference rule	noise
@@ -6207,8 +6207,8 @@ id	term	label
 6205	to characterize	autonoise
 6206	technology a	autonoise
 6207	and keywords	autonoise
-6208	review dataset	relevant
-6209	sentence similarity	relevant
+6208	review dataset	keyword
+6209	sentence similarity	keyword
 6210	online community	autonoise
 6211	based model	
 6212	and event	autonoise
@@ -6216,7 +6216,7 @@ id	term	label
 6214	in real-world	
 6215	of class	autonoise
 6216	research of	autonoise
-6217	statistical approach	relevant
+6217	statistical approach	keyword
 6218	trend prediction	autonoise
 6219	location of	autonoise
 6220	ha led	autonoise
@@ -6246,10 +6246,10 @@ id	term	label
 6244	log file	
 6245	section of	autonoise
 6246	analysis task	autonoise
-6247	automatic keyword	relevant
+6247	automatic keyword	keyword
 6248	a message	autonoise
 6249	second step	autonoise
-6250	fuzzy ontology	relevant
+6250	fuzzy ontology	keyword
 6251	not necessarily	autonoise
 6252	legal document	noise
 6253	ontology to	autonoise
@@ -6270,9 +6270,9 @@ id	term	label
 6268	polarity and	autonoise
 6269	and protein	autonoise
 6270	contribution to	autonoise
-6271	training corpus	relevant
+6271	training corpus	keyword
 6272	indian language	noise
-6273	negative emotion	relevant
+6273	negative emotion	keyword
 6274	license to	autonoise
 6275	training time	autonoise
 6276	encoded in	autonoise
@@ -6312,7 +6312,7 @@ id	term	label
 6310	to three	autonoise
 6311	is time-consuming	autonoise
 6312	time-consuming and	
-6313	extraction task	relevant
+6313	extraction task	keyword
 6314	food delivery	
 6315	delivery service	autonoise
 6316	by reducing	autonoise
@@ -6383,7 +6383,7 @@ id	term	label
 6381	source to	autonoise
 6382	word co-occurrence	
 6383	enhanced by	autonoise
-6384	word similarity	relevant
+6384	word similarity	keyword
 6385	a person	autonoise
 6386	a reliable	autonoise
 6387	is intended	autonoise
@@ -6431,7 +6431,7 @@ id	term	label
 6429	is text	autonoise
 6430	adopt a	autonoise
 6431	first to	autonoise
-6432	principal component	relevant
+6432	principal component	keyword
 6433	text source	noise
 6434	in processing	autonoise
 6435	and f-score	
@@ -6441,7 +6441,7 @@ id	term	label
 6439	a syntactic	autonoise
 6440	of patient	autonoise
 6441	artificial neural	autonoise
-6442	negative word	relevant
+6442	negative word	keyword
 6443	entity linking	noise
 6444	measure based	
 6445	first stage	autonoise
@@ -6460,12 +6460,12 @@ id	term	label
 6458	in advance	autonoise
 6459	of significant	autonoise
 6460	key component	autonoise
-6461	unstructured document	relevant
+6461	unstructured document	keyword
 6462	document of	autonoise
 6463	identified and	autonoise
 6464	different category	autonoise
 6465	statistical information	autonoise
-6466	accuracy precision	relevant
+6466	accuracy precision	keyword
 6467	ha used	
 6468	summarization question	noise
 6469	a subject	autonoise
@@ -6492,7 +6492,7 @@ id	term	label
 6490	to concept	autonoise
 6491	however a	
 6492	study focus	autonoise
-6493	short term	relevant
+6493	short term	keyword
 6494	superiority of	autonoise
 6495	major issue	autonoise
 6496	remains a	autonoise
@@ -6507,7 +6507,7 @@ id	term	label
 6505	on four	autonoise
 6506	and need	autonoise
 6507	prototype system	autonoise
-6508	preprocessing technique	relevant
+6508	preprocessing technique	keyword
 6509	influence on	autonoise
 6510	share information	autonoise
 6511	is generated	autonoise
@@ -6519,7 +6519,7 @@ id	term	label
 6517	a second	autonoise
 6518	information mining	noise
 6519	recommendation system	noise
-6520	embedding method	relevant
+6520	embedding method	keyword
 6521	by adopting	autonoise
 6522	by clustering	autonoise
 6523	conducted in	autonoise
@@ -6538,7 +6538,7 @@ id	term	label
 6536	classification text	autonoise
 6537	research focus	autonoise
 6538	gene ontology	autonoise
-6539	document similarity	relevant
+6539	document similarity	keyword
 6540	similarity calculation	noise
 6541	is better	autonoise
 6542	conducted a	autonoise
@@ -6550,14 +6550,14 @@ id	term	label
 6548	conference is	autonoise
 6549	of historical	autonoise
 6550	computer society	
-6551	annotated dataset	relevant
+6551	annotated dataset	keyword
 6552	stemming and	autonoise
 6553	a linguistic	autonoise
 6554	automatic and	autonoise
 6555	and build	autonoise
 6556	entity to	autonoise
 6557	in predicting	autonoise
-6558	labeled training	relevant
+6558	labeled training	keyword
 6559	various technique	noise
 6560	to outperform	autonoise
 6561	whether a	autonoise
@@ -6631,7 +6631,7 @@ id	term	label
 6629	public mood	autonoise
 6630	relatedness of	autonoise
 6631	text written	relevant
-6632	latent topic	relevant
+6632	latent topic	keyword
 6633	text mining-based	
 6634	developed system	autonoise
 6635	opinion towards	noise
@@ -6651,7 +6651,7 @@ id	term	label
 6649	emotion of	autonoise
 6650	is analyzed	autonoise
 6651	regarded a	autonoise
-6652	pattern recognition	relevant
+6652	pattern recognition	keyword
 6653	k-means and	
 6654	and k-means	
 6655	document set	noise
@@ -6811,9 +6811,9 @@ id	term	label
 6809	topic is	autonoise
 6810	and doe	autonoise
 6811	of case	autonoise
-6812	frequency inverse	relevant
+6812	frequency inverse	keyword
 6813	in depth	autonoise
-6814	summarization method	relevant
+6814	summarization method	keyword
 6815	published on	autonoise
 6816	by detecting	autonoise
 6817	and network	autonoise
@@ -6830,7 +6830,7 @@ id	term	label
 6828	by assigning	autonoise
 6829	of published	autonoise
 6830	data-driven approach	
-6831	supervised approach	relevant
+6831	supervised approach	keyword
 6832	belongs to	autonoise
 6833	s text	autonoise
 6834	method performs	noise
@@ -6849,7 +6849,7 @@ id	term	label
 6847	aspect-based sentiment	
 6848	employing a	autonoise
 6849	analysis model	noise
-6850	topic evolution	relevant
+6850	topic evolution	keyword
 6851	research trend	autonoise
 6852	including a	
 6853	addition a	autonoise
@@ -6902,7 +6902,7 @@ id	term	label
 6900	method by	autonoise
 6901	language a	autonoise
 6902	and implement	autonoise
-6903	text classifier	relevant
+6903	text classifier	keyword
 6904	assessment and	autonoise
 6905	of certain	autonoise
 6906	couple of	autonoise
@@ -6931,7 +6931,7 @@ id	term	label
 6929	metric of	autonoise
 6930	is therefore	autonoise
 6931	unit and	autonoise
-6932	phrase embedding	relevant
+6932	phrase embedding	keyword
 6933	outperforms state-of-the-art	
 6934	f value	noise
 6935	massive data	autonoise
@@ -7021,7 +7021,7 @@ id	term	label
 7019	effectively and	autonoise
 7020	rule to	autonoise
 7021	and character	autonoise
-7022	word identification	relevant
+7022	word identification	keyword
 7023	workshop on	autonoise
 7024	clinical case	autonoise
 7025	taxonomy of	autonoise
@@ -7032,7 +7032,7 @@ id	term	label
 7030	at different	autonoise
 7031	evaluation method	relevant
 7032	concept word	autonoise
-7033	similarity measurement	relevant
+7033	similarity measurement	keyword
 7034	similarity based	
 7035	long short	noise
 7036	component to	autonoise
@@ -7112,14 +7112,14 @@ id	term	label
 7110	wa built	autonoise
 7111	and reliable	autonoise
 7112	user profile	noise
-7113	ensemble method	relevant
+7113	ensemble method	keyword
 7114	a multilingual	autonoise
 7115	a f	autonoise
-7116	emotion mining	relevant
+7116	emotion mining	keyword
 7117	french and	autonoise
 7118	in accuracy	autonoise
 7119	tweet is	autonoise
-7120	svm classifier	relevant
+7120	svm classifier	keyword
 7121	to separate	autonoise
 7122	contributing to	autonoise
 7123	spanish language	autonoise
@@ -7168,9 +7168,9 @@ id	term	label
 7166	function of	autonoise
 7167	a manually	autonoise
 7168	of noisy	autonoise
-7169	retrieval technique	relevant
+7169	retrieval technique	keyword
 7170	malay language	autonoise
-7171	stemming accuracy	relevant
+7171	stemming accuracy	keyword
 7172	and perform	autonoise
 7173	and develop	autonoise
 7174	applying text	autonoise
@@ -7240,7 +7240,7 @@ id	term	label
 7238	review a	autonoise
 7239	negative impact	noise
 7240	environment and	autonoise
-7241	structured document	relevant
+7241	structured document	keyword
 7242	a base	autonoise
 7243	management and	autonoise
 7244	search query	autonoise
@@ -7273,7 +7273,7 @@ id	term	label
 7271	and management	autonoise
 7272	positively correlated	
 7273	in solving	autonoise
-7274	similarity value	relevant
+7274	similarity value	keyword
 7275	primary study	autonoise
 7276	and highlight	autonoise
 7277	of relevance	autonoise
@@ -7311,7 +7311,7 @@ id	term	label
 7309	rich information	noise
 7310	to weight	autonoise
 7311	by domain	autonoise
-7312	baseline approach	relevant
+7312	baseline approach	keyword
 7313	legal domain	autonoise
 7314	period of	autonoise
 7315	technique including	
@@ -7335,7 +7335,7 @@ id	term	label
 7333	of association	autonoise
 7334	analysis text	autonoise
 7335	and general	autonoise
-7336	lda model	relevant
+7336	lda model	keyword
 7337	management of	autonoise
 7338	meeting minute	
 7339	support to	autonoise
@@ -7368,7 +7368,7 @@ id	term	label
 7366	based keyword	
 7367	and feeling	autonoise
 7368	people and	autonoise
-7369	positive sentiment	relevant
+7369	positive sentiment	keyword
 7370	categorization is	autonoise
 7371	of infrastructure	autonoise
 7372	text pattern	autonoise
@@ -7409,7 +7409,7 @@ id	term	label
 7407	hybrid system	autonoise
 7408	patent data	autonoise
 7409	if applicable	
-7410	empirical evaluation	relevant
+7410	empirical evaluation	keyword
 7411	of corpus	autonoise
 7412	limitation in	autonoise
 7413	on web	autonoise
@@ -7433,7 +7433,7 @@ id	term	label
 7431	content word	noise
 7432	work to	autonoise
 7433	is well	autonoise
-7434	pattern mining	relevant
+7434	pattern mining	keyword
 7435	query word	noise
 7436	information need	autonoise
 7437	news video	autonoise
@@ -7603,7 +7603,7 @@ id	term	label
 7601	net income	
 7602	income estimate	
 7603	network in	autonoise
-7604	opinion sentence	relevant
+7604	opinion sentence	keyword
 7605	comment in	autonoise
 7606	different data	autonoise
 7607	of support	autonoise
@@ -7633,7 +7633,7 @@ id	term	label
 7631	semantic concept	autonoise
 7632	and prediction	autonoise
 7633	of hypernymy	autonoise
-7634	hypernymy relation	relevant
+7634	hypernymy relation	keyword
 7635	entity a	autonoise
 7636	highly correlated	
 7637	target language	autonoise
@@ -7643,7 +7643,7 @@ id	term	label
 7641	taxonomy and	autonoise
 7642	verb and	autonoise
 7643	keyword and	autonoise
-7644	word sequence	relevant
+7644	word sequence	keyword
 7645	affected by	autonoise
 7646	network architecture	noise
 7647	on measuring	autonoise
@@ -7671,8 +7671,8 @@ id	term	label
 7669	exponential growth	
 7670	mechanism is	autonoise
 7671	utility of	autonoise
-7672	automatic keyphrase	relevant
-7673	accuracy rate	relevant
+7672	automatic keyphrase	keyword
+7673	accuracy rate	keyword
 7674	effort on	autonoise
 7675	approach used	
 7676	recommendation to	autonoise
@@ -7810,7 +7810,7 @@ id	term	label
 7808	on lexical	autonoise
 7809	labeling and	autonoise
 7810	graph-based method	
-7811	graph representation	relevant
+7811	graph representation	keyword
 7812	four main	autonoise
 7813	discussed and	autonoise
 7814	matching and	autonoise
@@ -7867,10 +7867,10 @@ id	term	label
 7865	qa system	autonoise
 7866	corpus by	autonoise
 7867	mathematical expression	noise
-7868	image processing	relevant
+7868	image processing	keyword
 7869	baseline in	autonoise
 7870	ha long	autonoise
-7871	binary classification	relevant
+7871	binary classification	keyword
 7872	a pair	autonoise
 7873	information dissemination	autonoise
 7874	of fake	autonoise
@@ -7957,8 +7957,8 @@ id	term	label
 7955	standard german	autonoise
 7956	language detection	autonoise
 7957	text snippet	autonoise
-7958	neural model	relevant
-7959	regression model	relevant
+7958	neural model	keyword
+7959	regression model	keyword
 7960	of negation	autonoise
 7961	thought and	autonoise
 7962	overview on	autonoise
@@ -7975,7 +7975,7 @@ id	term	label
 7973	biomedical and	autonoise
 7974	by up	autonoise
 7975	on language	autonoise
-7976	human annotation	relevant
+7976	human annotation	keyword
 7977	issue by	autonoise
 7978	matching algorithm	noise
 7979	furthermore a	
@@ -7986,7 +7986,7 @@ id	term	label
 7984	knowledge mining	autonoise
 7985	developer and	autonoise
 7986	promising and	autonoise
-7987	seed word	relevant
+7987	seed word	keyword
 7988	a random	autonoise
 7989	report is	autonoise
 7990	a practical	autonoise
@@ -8013,8 +8013,8 @@ id	term	label
 8011	extracting semantic	autonoise
 8012	and illustrated	autonoise
 8013	tends to	autonoise
-8014	single word	relevant
-8015	kernel function	relevant
+8014	single word	keyword
+8015	kernel function	keyword
 8016	interest of	autonoise
 8017	software application	autonoise
 8018	take place	
@@ -8022,7 +8022,7 @@ id	term	label
 8020	future trend	autonoise
 8021	and create	autonoise
 8022	in written	autonoise
-8023	web content	relevant
+8023	web content	keyword
 8024	question by	autonoise
 8025	a pattern	autonoise
 8026	to manage	autonoise
@@ -8071,7 +8071,7 @@ id	term	label
 8069	valuable knowledge	autonoise
 8070	science publication	autonoise
 8071	of unsupervised	autonoise
-8072	topic distribution	relevant
+8072	topic distribution	keyword
 8073	spatial and	autonoise
 8074	frequency in	autonoise
 8075	role labeling	autonoise
@@ -8157,13 +8157,13 @@ id	term	label
 8155	type in	autonoise
 8156	associated to	autonoise
 8157	of seed	autonoise
-8158	three classifier	relevant
+8158	three classifier	keyword
 8159	and without	autonoise
 8160	a web-based	
 8161	trained and	autonoise
 8162	semi-structured document	
 8163	and adjective	autonoise
-8164	word pair	relevant
+8164	word pair	keyword
 8165	database to	autonoise
 8166	a robust	autonoise
 8167	test dataset	noise
@@ -8231,18 +8231,18 @@ id	term	label
 8229	human activity	noise
 8230	idea and	autonoise
 8231	extracting useful	autonoise
-8232	grammatical structure	relevant
+8232	grammatical structure	keyword
 8233	concept relationship	autonoise
 8234	subject area	autonoise
 8235	treatment and	autonoise
 8236	and government	autonoise
 8237	is classified	autonoise
-8238	word feature	relevant
+8238	word feature	keyword
 8239	named river	noise
 8240	river and	autonoise
 8241	and bay	autonoise
 8242	language preprocessing	autonoise
-8243	ensemble learning	relevant
+8243	ensemble learning	keyword
 8244	not in	autonoise
 8245	f-score and	
 8246	weighting and	autonoise
@@ -8293,7 +8293,7 @@ id	term	label
 8291	cross-domain sentiment	
 8292	a fine-grained	
 8293	purchase decision	autonoise
-8294	sentence structure	relevant
+8294	sentence structure	keyword
 8295	sociedad española	
 8296	española para	
 8297	benchmark data	autonoise
@@ -8391,7 +8391,7 @@ id	term	label
 8389	to research	autonoise
 8390	content to	autonoise
 8391	content a	autonoise
-8392	statistical learning	relevant
+8392	statistical learning	keyword
 8393	a facebook	autonoise
 8394	facebook and	autonoise
 8395	monolingual corpus	autonoise
@@ -8440,7 +8440,7 @@ id	term	label
 8438	theory and	autonoise
 8439	microblogging service	autonoise
 8440	oil price	
-8441	topic extraction	relevant
+8441	topic extraction	keyword
 8442	to many	
 8443	easily accessible	
 8444	by morgan	autonoise
@@ -8472,7 +8472,7 @@ id	term	label
 8470	of cross-lingual	
 8471	language pair	noise
 8472	attracted much	
-8473	document corpus	relevant
+8473	document corpus	keyword
 8474	evolution potential	autonoise
 8475	to deliver	autonoise
 8476	useful tool	noise
@@ -8549,7 +8549,7 @@ id	term	label
 8547	international publishing ag	autonoise
 8548	in text mining	noise
 8549	international publishing switzerland	autonoise
-8550	support vector machine	relevant
+8550	support vector machine	keyword
 8551	is used to	autonoise
 8552	text mining is	autonoise
 8553	based on a	
@@ -8574,7 +8574,7 @@ id	term	label
 8572	propose a novel	
 8573	natural language text	noise
 8574	conditional random field	noise
-8575	machine learning algorithm	relevant
+8575	machine learning algorithm	keyword
 8576	a variety of	noise
 8577	and sentiment analysis	noise
 8578	text mining method	noise
@@ -8586,16 +8586,16 @@ id	term	label
 8584	text mining task	relevant
 8585	a natural language	autonoise
 8586	machine learning method	noise
-8587	machine learning technique	relevant
+8587	machine learning technique	keyword
 8588	in social medium	noise
-8589	precision and recall	relevant
+8589	precision and recall	keyword
 8590	important role in	noise
 8591	text mining approach	relevant
 8592	make use of	noise
 8593	is proposed to	autonoise
 8594	a lot of	noise
 8595	f score of	noise
-8596	bag of word	relevant
+8596	bag of word	keyword
 8597	different type of	noise
 8598	a combination of	noise
 8599	approach based on	
@@ -8604,10 +8604,10 @@ id	term	label
 8602	text mining in	noise
 8603	vector space model	noise
 8604	text mining tool	relevant
-8605	machine learning approach	relevant
+8605	machine learning approach	keyword
 8606	is a challenging	autonoise
 8607	used a a	
-8608	part of speech	relevant
+8608	part of speech	keyword
 8609	positive and negative	noise
 8610	machine learning and	noise
 8611	by mean of	noise
@@ -8615,12 +8615,12 @@ id	term	label
 8613	is applied to	autonoise
 8614	source of information	relevant
 8615	on social medium	autonoise
-8616	recurrent neural network	relevant
+8616	recurrent neural network	keyword
 8617	proposed approach is	autonoise
 8618	a novel approach	
 8619	publishing ag part	noise
 8620	ag part of	noise
-8621	convolutional neural network	relevant
+8621	convolutional neural network	keyword
 8622	a challenging task	autonoise
 8623	social medium data	noise
 8624	text mining system	noise
@@ -8646,7 +8646,7 @@ id	term	label
 8644	wide range of	noise
 8645	medium llc part	noise
 8646	llc part of	noise
-8647	question answering system	relevant
+8647	question answering system	keyword
 8648	of information retrieval	noise
 8649	taylor francis group	noise
 8650	social medium and	noise
@@ -8657,7 +8657,7 @@ id	term	label
 8655	take advantage of	noise
 8656	and support vector	noise
 8657	a series of	noise
-8658	deep neural network	relevant
+8658	deep neural network	keyword
 8659	of text data	noise
 8660	of data mining	noise
 8661	to automatically extract	noise
@@ -8670,9 +8670,9 @@ id	term	label
 8668	vast amount of	noise
 8669	amount of information	relevant
 8670	of a document	noise
-8671	field of text	relevant
+8671	field of text	keyword
 8672	of textual data	noise
-8673	word sense disambiguation	relevant
+8673	word sense disambiguation	keyword
 8674	information extraction and	noise
 8675	work is to	autonoise
 8676	sentiment analysis in	noise
@@ -8691,7 +8691,7 @@ id	term	label
 8689	word in a	autonoise
 8690	mining is a	autonoise
 8691	text mining to	noise
-8692	supervised machine learning	relevant
+8692	supervised machine learning	keyword
 8693	of machine learning	noise
 8694	a novel method	autonoise
 8695	ha become a	autonoise
@@ -8706,14 +8706,14 @@ id	term	label
 8704	design methodology approach	
 8705	sentiment analysis technique	noise
 8706	of data and	noise
-8707	neural network model	relevant
+8707	neural network model	keyword
 8708	a method to	autonoise
 8709	field of natural	noise
 8710	main contribution of	autonoise
 8711	text mining information	noise
 8712	more and more	noise
 8713	on natural language	autonoise
-8714	machine learning model	relevant
+8714	machine learning model	keyword
 8715	aim is to	autonoise
 8716	word and phrase	noise
 8717	to provide a	autonoise
@@ -8727,7 +8727,7 @@ id	term	label
 8725	of information extraction	noise
 8726	chinese word segmentation	noise
 8727	emerald publishing limited	noise
-8728	latent semantic analysis	relevant
+8728	latent semantic analysis	keyword
 8729	analysis is a	autonoise
 8730	text mining ha	noise
 8731	a total of	noise
@@ -8743,7 +8743,7 @@ id	term	label
 8741	author and io	noise
 8742	world scientific publishing	noise
 8743	study is to	autonoise
-8744	deep learning model	relevant
+8744	deep learning model	keyword
 8745	social medium post	noise
 8746	mining information retrieval	noise
 8747	proposed system is	autonoise
@@ -8759,7 +8759,7 @@ id	term	label
 8757	adverse drug reaction	autonoise
 8758	analysis technique to	autonoise
 8759	of text classification	noise
-8760	stop word removal	relevant
+8760	stop word removal	keyword
 8761	is to extract	autonoise
 8762	feature based on	
 8763	a dataset of	noise
@@ -8789,7 +8789,7 @@ id	term	label
 8787	and analysis of	noise
 8788	of a given	noise
 8789	study aim to	noise
-8790	inverse document frequency	relevant
+8790	inverse document frequency	keyword
 8791	is capable of	autonoise
 8792	of a text	noise
 8793	used to train	
@@ -8831,9 +8831,9 @@ id	term	label
 8829	and relation extraction	noise
 8830	to extract information	noise
 8831	set of feature	noise
-8832	hidden markov model	relevant
+8832	hidden markov model	keyword
 8833	on a set	autonoise
-8834	probabilistic topic model	relevant
+8834	probabilistic topic model	keyword
 8835	information in a	autonoise
 8836	in a sentence	autonoise
 8837	part of a	noise
@@ -8901,7 +8901,7 @@ id	term	label
 8899	feature selection and	autonoise
 8900	proposed model is	autonoise
 8901	and deep learning	noise
-8902	unstructured textual data	relevant
+8902	unstructured textual data	keyword
 8903	to make a	autonoise
 8904	mining based on	
 8905	a mixture of	autonoise
@@ -8952,14 +8952,14 @@ id	term	label
 8950	information extraction technique	autonoise
 8951	is composed of	autonoise
 8952	keyword extraction method	autonoise
-8953	decision support system	relevant
+8953	decision support system	keyword
 8954	point of view	noise
 8955	statistical machine translation	noise
 8956	text mining model	noise
 8957	related to text	autonoise
 8958	a bag of	noise
 8959	of scientific article	autonoise
-8960	deep learning technique	relevant
+8960	deep learning technique	keyword
 8961	in spite of	autonoise
 8962	in real time	noise
 8963	text classification technique	autonoise
@@ -8967,7 +8967,7 @@ id	term	label
 8965	gmbh germany part	noise
 8966	germany part of	autonoise
 8967	different level of	noise
-8968	social network analysis	relevant
+8968	social network analysis	keyword
 8969	electronic medical record	autonoise
 8970	text mining technology	noise
 8971	is a fundamental	autonoise
@@ -8980,7 +8980,7 @@ id	term	label
 8978	syntactic and semantic	noise
 8979	data set of	noise
 8980	topic model and	autonoise
-8981	singular value decomposition	relevant
+8981	singular value decomposition	keyword
 8982	non-negative matrix factorization	
 8983	retrieval and natural	autonoise
 8984	different aspect of	autonoise
@@ -8989,7 +8989,7 @@ id	term	label
 8987	training and testing	autonoise
 8988	of short text	noise
 8989	kind of information	autonoise
-8990	automatic text summarization	relevant
+8990	automatic text summarization	keyword
 8991	task in a	autonoise
 8992	important part of	autonoise
 8993	in comparison to	autonoise
@@ -9028,10 +9028,10 @@ id	term	label
 9026	to social medium	autonoise
 9027	based on semantic	
 9028	a range of	noise
-9029	representation of text	relevant
+9029	representation of text	keyword
 9030	making use of	autonoise
 9031	is useful in	autonoise
-9032	topic modeling technique	relevant
+9032	topic modeling technique	keyword
 9033	analysis of textual	autonoise
 9034	a specific domain	autonoise
 9035	semantic web and	autonoise
@@ -9086,10 +9086,10 @@ id	term	label
 9084	text classification method	autonoise
 9085	text data and	noise
 9086	classification is a	autonoise
-9087	deep learning architecture	relevant
+9087	deep learning architecture	keyword
 9088	semantic and syntactic	autonoise
 9089	in text classification	noise
-9090	artificial neural network	relevant
+9090	artificial neural network	keyword
 9091	and random forest	autonoise
 9092	in machine learning	noise
 9093	analysis of sentiment	autonoise
@@ -9219,7 +9219,7 @@ id	term	label
 9217	data mining method	noise
 9218	idea is to	autonoise
 9219	is becoming a	autonoise
-9220	representation of word	relevant
+9220	representation of word	keyword
 9221	volume of text	autonoise
 9222	is not a	autonoise
 9223	keyword extraction and	autonoise
@@ -9241,7 +9241,7 @@ id	term	label
 9239	research topic in	autonoise
 9240	propose to use	
 9241	of sentiment and	autonoise
-9242	recall and precision	relevant
+9242	recall and precision	keyword
 9243	principal component analysis	autonoise
 9244	recall and f-score	
 9245	growing amount of	autonoise
@@ -9405,7 +9405,7 @@ id	term	label
 9403	ohsumed disease hierarchy	noise
 9404	in today s	noise
 9405	learning technique to	autonoise
-9406	term frequency inverse	relevant
+9406	term frequency inverse	keyword
 9407	text summarization and	autonoise
 9408	biomedical literature and	autonoise
 9409	systematic literature review	noise
@@ -9423,7 +9423,7 @@ id	term	label
 9421	is available in	autonoise
 9422	unstructured text and	autonoise
 9423	text data set	autonoise
-9424	sentiment analysis model	relevant
+9424	sentiment analysis model	keyword
 9425	based on statistical	
 9426	topic detection and	autonoise
 9427	make full use	noise
@@ -9457,7 +9457,7 @@ id	term	label
 9455	main challenge in	autonoise
 9456	is intended to	autonoise
 9457	used in natural	
-9458	semantically similar word	relevant
+9458	semantically similar word	keyword
 9459	word embeddings and	autonoise
 9460	on three different	autonoise
 9461	to a variety	autonoise
@@ -9532,7 +9532,7 @@ id	term	label
 9530	a topic of	autonoise
 9531	a pair of	autonoise
 9532	deep learning ha	autonoise
-9533	document clustering algorithm	relevant
+9533	document clustering algorithm	keyword
 9534	referred to a	autonoise
 9535	accuracy and efficiency	autonoise
 9536	and efficiency of	autonoise
@@ -9598,7 +9598,7 @@ id	term	label
 9596	a difficult task	autonoise
 9597	computational linguistics and	autonoise
 9598	of social network	autonoise
-9599	association rule mining	relevant
+9599	association rule mining	keyword
 9600	of web document	autonoise
 9601	term of recall	autonoise
 9602	is related to	autonoise
@@ -9641,7 +9641,7 @@ id	term	label
 9639	a text analysis	autonoise
 9640	river and bay	autonoise
 9641	natural language preprocessing	autonoise
-9642	stop word list	relevant
+9642	stop word list	keyword
 9643	by domain expert	autonoise
 9644	method in a	autonoise
 9645	on a daily	autonoise
