@@ -18,7 +18,7 @@ text-column = "abstract_lem"
 title-column = "title"
 # Seed to be used in training.
 # required: False
-seed = ""
+seed = "123456"
 # Placeholder for barrier word. Also used as a prefix for the relevant words. Default: @
 # required: False
 placeholder = "@"
